@@ -1087,3 +1087,275 @@ a.move-top span {
     border: none;
     line-height: 2em;
 }
+
+/*-- Responsive design --*/
+
+@media screen and (max-width:1450px) {
+
+    .banner-top,
+    .banner-top1,
+    .banner-top2,
+    .overlay {
+        min-height: 45em;
+    }
+
+    h3.title-w3pvt,
+    h3.title-w3pvt.two {
+        font-size: 2.5em;
+    }
+
+    .banner-info h3 {
+        font-size: 8em;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .banner-info {
+        padding-top: 17em;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    .banner-info h3 {
+        font-size: 7em;
+    }
+
+    .banner-top,
+    .banner-top1,
+    .banner-top2,
+    .overlay {
+        min-height: 40em;
+    }
+
+    .banner-info {
+        padding-top: 14em;
+    }
+
+    .progress-one {
+        margin-bottom: 1.2em;
+    }
+
+    .gd-bottom img {
+        width: 50%;
+        margin-top: 2em;
+    }
+}
+
+@media screen and (max-width:1024px) {
+
+    .main-w3layouts-header-sec.inner-page,
+    .overlay-innerpage {
+        min-height: 18em;
+    }
+
+    .partner-w3pvt span {
+        font-size: 2.5em;
+    }
+
+    .partner-w3pvt h4 {
+        font-size: 0.8em;
+    }
+}
+
+@media screen and (max-width: 992px) {
+
+    .main-w3layouts-header-sec.inner-page,
+    .overlay-innerpage {
+        min-height: 16em;
+    }
+
+    .banner-info h3 {
+        font-size: 5.5em;
+    }
+
+    .banner-w3layouts-top-icons li {
+        font-size: 0.9em;
+        letter-spacing: 2px;
+    }
+
+    .banner-top,
+    .banner-top1,
+    .banner-top2,
+    .overlay {
+        min-height: 35em;
+    }
+
+    .banner-info {
+        padding-top: 11em;
+    }
+
+    .gd-bottom {
+        float: left;
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 736px) {
+    .banner-info h3 {
+        font-size: 4.5em;
+    }
+
+    h3.title-w3pvt,
+    h3.title-w3pvt.two {
+        font-size: 2.3em;
+    }
+
+    .con-gd {
+        margin-bottom: 1em;
+    }
+}
+
+@media screen and (max-width: 667px) {
+
+    .main-w3layouts-header-sec.inner-page,
+    .overlay-innerpage {
+        min-height: 14em;
+    }
+}
+
+@media screen and (max-width: 640px) {
+
+    .banner-top,
+    .banner-top1,
+    .banner-top2,
+    .overlay {
+        min-height: 30em;
+    }
+
+    .banner-info {
+        padding-top: 9em;
+    }
+
+    .gd-bottom {
+        float: left;
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .gd-bottom.team-wthree-gd {
+        text-align: center;
+    }
+}
+
+
+@media screen and (max-width:600px) {
+    .banner-info h3 {
+        font-size: 4em;
+    }
+
+    .banner-info h4 {
+        font-size: 0.9em;
+        letter-spacing: 1px;
+    }
+
+    .subscribe-sec {
+        padding: 40px 40px;
+    }
+
+    p.counter {
+        font-size: 2em;
+        line-height: 0.7em;
+    }
+
+    .sub-wthree {
+        font-size: 1em;
+    }
+
+    .gd-bottom {
+        float: left;
+        width: 90%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width:568px) {
+
+    .banner-top,
+    .banner-top1,
+    .banner-top2,
+    .overlay {
+        min-height: 25em;
+    }
+
+    .banner-info {
+        padding-top: 7em;
+    }
+
+    .main-w3layouts-header-sec.inner-page,
+    .overlay-innerpage {
+        min-height: 12em;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .banner-info h3 {
+        font-size: 3em;
+    }
+
+    li.icons a {
+        width: 36px;
+        height: 36px;
+    }
+
+    .banner-top,
+    .banner-top1,
+    .banner-top2,
+    .overlay {
+        min-height: 23em;
+    }
+
+    h3.title-w3pvt,
+    h3.title-w3pvt.two {
+        font-size: 2em;
+    }
+
+    .w3layouts-contact-fm {
+        margin: 0 auto;
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 414px) {
+
+    h3.title-w3pvt,
+    h3.title-w3pvt.two {
+        font-size: 1.8em;
+    }
+
+    .banner-w3layouts-top-icons li {
+        font-size: 0.8em;
+        letter-spacing: 1px;
+    }
+
+    .main-w3layouts-header-sec.inner-page,
+    .overlay-innerpage {
+        min-height: 10em;
+    }
+}
+
+@media screen and (max-width: 384px) {
+
+    h3.title-w3pvt,
+    h3.title-w3pvt.two {
+        font-size: 1.6em;
+    }
+
+    .banner-info h3 {
+        font-size: 2.5em;
+    }
+
+    .banner-top,
+    .banner-top1,
+    .banner-top2,
+    .overlay {
+        min-height: 20em;
+    }
+
+    .banner-info {
+        padding-top: 6em;
+    }
+}
+
+@media screen and (max-width:375px) {}
+
+@media screen and (max-width:320px) {}
