@@ -838,3 +838,36 @@ p.counter {
     border: 1px solid #ddd;
     background: #F9FAFF;
 }
+
+/*-- /single --*/
+h4.leave-w3layouts {
+    font-size: 1.4em;
+    color: #4f5152;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-bottom: 2em;
+}
+
+.media h5 {
+    font-size: 1em;
+    color: #555;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 2em;
+}
+
+.content-sing-w3layouts h4 {
+    color: #555;
+    font-size: 1.4em;
+    margin: 1em 0;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+.single-lavi-page img {
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -o- border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+}
