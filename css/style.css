@@ -485,7 +485,6 @@ li > a:only-child:after {
     }
 
 }
-
 .banner-w3layouts-top-icons li {
     display: inline-block;
     text-shadow: 3px 1px 3px rgba(45, 45, 45, 0.38);
@@ -496,7 +495,6 @@ li > a:only-child:after {
     text-transform: uppercase;
     letter-spacing: 3px;
 }
-
 li.icons a {
     width: 48px;
     height: 48px;
@@ -508,4 +506,103 @@ li.icons a {
     padding: 0;
     background: transporant;
     color: #fff;
+}
+
+/*-- /banner-bottom --*/
+.sub-wthree {
+    color: #333;
+    font-size: 1.1em;
+    text-transform: capitalize;
+    font-weight: 500;
+    text-shadow: 3px 1px 3px rgba(45, 45, 45, 0.09);
+}
+
+/*-- features --*/
+h3.title-w3pvt,
+h3.title-w3pvt.two {
+    text-shadow: 3px 1px 3px rgba(45, 45, 45, 0.14);
+    font-size: 2.7em;
+    color: #333;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h3.title-w3pvt.two {
+    color: #fff;
+}
+
+.about {
+    background: #f5f1f6;
+}
+
+h3.tittle {
+    font-size: 2.5em;
+    letter-spacing: 2px;
+    color: #292a2b;
+    text-transform: uppercase;
+}
+
+.feature-grids h3,
+.bottom-gd.fea h3 {
+    color: #05c46b;
+    letter-spacing: 1px;
+    margin-top: 0em;
+    font-size: 1.4em;
+}
+
+.feature-grids p {
+    margin: 0;
+}
+
+.feature-grids span {
+    font-size: 2em;
+    vertical-align: middle;
+    color: #2e3840;
+    margin-bottom: 0.3em;
+}
+
+.bottom-gd,
+.bottom-gd2-active {
+    background: #fff;
+    transition: 2s all;
+    -webkit-transition: 2s all;
+    -moz-transition: 2s all;
+    -ms-transition: 2s all;
+    -o-transition: 2s all;
+    box-shadow: 7px 7px 10px 0 rgba(76, 110, 245, .1);
+}
+
+.bottom-gd2-active {
+    background: #ff0084;
+    transition: 2s all;
+    -webkit-transition: 2s all;
+    -moz-transition: 2s all;
+    -ms-transition: 2s all;
+    -o-transition: 2s all;
+}
+
+.bottom-gd2-active span {
+    color: #fff;
+}
+
+.bottom-gd2-active p {
+    color: #fff;
+}
+
+.bottom-gd2-active h3 {
+    color: #fff;
+}
+
+.feature-grids h3,
+.bottom-gd.fea h3 {
+    font-size: 1em;
+    color: #1e272e;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+
+.effect-w3 {
+    padding: 6px;
+    background: #f0f0f1;
 }
