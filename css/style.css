@@ -1050,3 +1050,40 @@ ul.list-info-lavi span {
 .feature-grids.team span {
     font-size: 1.5em;
 }
+
+/* copyright */
+
+p.copy-right-grids {
+    letter-spacing: 2px;
+    color: #777;
+}
+
+p.copy-right-grids a {
+    color: #777;
+}
+
+.move-top {
+    margin-top: 1.2em;
+}
+
+a.move-top {
+    text-align: center;
+}
+
+a.move-top span {
+    color: #fff;
+    width: 36px;
+    height: 36px;
+    border: transparent;
+    line-height: 2em;
+    background: #f7f7f7;
+    border-radius: 5px;
+}
+
+/*-- to-top --*/
+a.move-top span {
+    color: #212529;
+    text-align: center;
+    border: none;
+    line-height: 2em;
+}
