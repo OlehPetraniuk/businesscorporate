@@ -690,3 +690,28 @@ p.counter {
 .f4 {
     color: #2db928;
 }
+
+/*-- partners --*/
+.partners {
+    background: #efc001;
+}
+
+.partner-w3pvt span {
+    font-size: 3em;
+    color: #333;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    -o-transition: 0.5s all;
+}
+
+.partner-w3pvt h4 {
+    text-transform: uppercase;
+    font-size: 0.9em;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-top: 5px;
+    text-shadow: 3px 1px 3px rgba(45, 45, 45, 0.06);
+    color: #333;
+}
