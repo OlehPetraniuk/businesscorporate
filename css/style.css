@@ -657,3 +657,36 @@ h4.progress-wthree {
     margin-top: 3em;
 }
 
+/*-- /stats --*/
+.stats_w3layouts_counter_grid span {
+    font-size: 35px;
+    margin-bottom: 0.7em;
+}
+
+p.para-w3layouts {
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+p.counter {
+    color: #444;
+    font-size: 3em;
+    font-weight: 600;
+    line-height: 0.7em;
+}
+
+.f1 {
+    color: #ff0084;
+}
+
+.f2 {
+    color: #efc001;
+}
+
+.f3 {
+    color: #0063dc;
+}
+
+.f4 {
+    color: #2db928;
+}
